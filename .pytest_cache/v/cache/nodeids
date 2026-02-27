@@ -1,0 +1,5 @@
+[
+  "tests/test_pro_xss_clean.py::TestClean::test_basic",
+  "tests/test_pro_xss_clean.py::TestClean::test_empty",
+  "tests/test_pro_xss_clean.py::TestClean::test_type_error"
+]
